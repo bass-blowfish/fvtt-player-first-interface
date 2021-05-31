@@ -1,4 +1,4 @@
-# fvtt-player-first-interface
+# Implementation
 If you don't want to use an image for the title, use the  "Original Text Title Code" branch. If you do want to use an image for the title use the second codeblock below under the title "Image Title Code" .
 
 If you ARE using the image title code and want to use a different image, place the image in the foundryvtt/resources/app/public/ui folder and change "dnd-logo.svg" in the CSS to whatever your file is named.
